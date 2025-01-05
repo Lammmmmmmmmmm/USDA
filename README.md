@@ -25,3 +25,200 @@ If the data or code is used in your research, please star this repo and cite our
   year      = {2022},
 }
 ```
+
+```
+USDA
+├─ dataset.zip
+├─ pretrain
+│  ├─ main.py
+│  ├─ model.py
+│  ├─ train.py
+│  ├─ train.sh
+│  ├─ transformer.py
+│  └─ utils.py
+├─ pretrain_dataset.rar
+├─ README.md
+├─ usda-clu
+│  ├─ main.py
+│  ├─ model.py
+│  ├─ train.py
+│  ├─ train.sh
+│  ├─ transformer.py
+│  └─ utils.py
+└─ usda-mtl
+   ├─ main.py
+   ├─ model.py
+   ├─ train.py
+   ├─ train.sh
+   ├─ transformer.py
+   └─ utils.py
+
+```
+```
+USDA
+├─ dataset.zip
+├─ pretrain
+│  ├─ main.py
+│  ├─ model.py
+│  ├─ train.py
+│  ├─ train.sh
+│  ├─ transformer.py
+│  └─ utils.py
+├─ pretrain_dataset.rar
+├─ README.md
+├─ usda-clu
+│  ├─ main.py
+│  ├─ model.py
+│  ├─ train.py
+│  ├─ train.sh
+│  ├─ transformer.py
+│  └─ utils.py
+└─ usda-mtl
+   ├─ main.py
+   ├─ model.py
+   ├─ train.py
+   ├─ train.sh
+   ├─ transformer.py
+   └─ utils.py
+
+```
+```
+USDA
+├─ dataset.zip
+├─ pretrain
+│  ├─ main.py
+│  ├─ model.py
+│  ├─ train.py
+│  ├─ train.sh
+│  ├─ transformer.py
+│  └─ utils.py
+├─ pretrain_dataset.rar
+├─ README.md
+├─ usda-clu
+│  ├─ main.py
+│  ├─ model.py
+│  ├─ train.py
+│  ├─ train.sh
+│  ├─ transformer.py
+│  └─ utils.py
+└─ usda-mtl
+   ├─ main.py
+   ├─ model.py
+   ├─ train.py
+   ├─ train.sh
+   ├─ transformer.py
+   └─ utils.py
+
+```
+```
+USDA
+├─ dataset.zip
+├─ pretrain
+│  ├─ main.py
+│  ├─ model.py
+│  ├─ train.py
+│  ├─ train.sh
+│  ├─ transformer.py
+│  └─ utils.py
+├─ pretrain_dataset.rar
+├─ README.md
+├─ usda-clu
+│  ├─ main.py
+│  ├─ model.py
+│  ├─ train.py
+│  ├─ train.sh
+│  ├─ transformer.py
+│  └─ utils.py
+└─ usda-mtl
+   ├─ main.py
+   ├─ model.py
+   ├─ train.py
+   ├─ train.sh
+   ├─ transformer.py
+   └─ utils.py
+
+```
+```
+USDA
+├─ dataset.zip
+├─ pretrain
+│  ├─ main.py
+│  ├─ model.py
+│  ├─ train.py
+│  ├─ train.sh
+│  ├─ transformer.py
+│  └─ utils.py
+├─ pretrain_dataset.rar
+├─ README.md
+├─ usda-clu
+│  ├─ main.py
+│  ├─ model.py
+│  ├─ train.py
+│  ├─ train.sh
+│  ├─ transformer.py
+│  └─ utils.py
+└─ usda-mtl
+   ├─ main.py
+   ├─ model.py
+   ├─ train.py
+   ├─ train.sh
+   ├─ transformer.py
+   └─ utils.py
+
+```
+```
+USDA
+├─ dataset.zip
+├─ pretrain
+│  ├─ main.py
+│  ├─ model.py
+│  ├─ train.py
+│  ├─ train.sh
+│  ├─ transformer.py
+│  └─ utils.py
+├─ pretrain_dataset.rar
+├─ README.md
+├─ usda-clu
+│  ├─ main.py
+│  ├─ model.py
+│  ├─ train.py
+│  ├─ train.sh
+│  ├─ transformer.py
+│  └─ utils.py
+└─ usda-mtl
+   ├─ main.py
+   ├─ model.py
+   ├─ train.py
+   ├─ train.sh
+   ├─ transformer.py
+   └─ utils.py
+
+```
+```
+USDA
+├─ dataset.zip
+├─ pretrain
+│  ├─ main.py
+│  ├─ model.py
+│  ├─ train.py
+│  ├─ train.sh
+│  ├─ transformer.py
+│  └─ utils.py
+├─ pretrain_dataset.rar
+├─ README.md
+├─ usda-clu
+│  ├─ main.py
+│  ├─ model.py
+│  ├─ train.py
+│  ├─ train.sh
+│  ├─ transformer.py
+│  └─ utils.py
+└─ usda-mtl
+   ├─ main.py
+   ├─ model.py
+   ├─ train.py
+   ├─ train.sh
+   ├─ transformer.py
+   └─ utils.py
+
+```
